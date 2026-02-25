@@ -35,6 +35,20 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### 🔐 Security & Testing
+![Security](https://img.shields.io/badge/Security-Testing-red?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### 📡 Protocols & APIs
+![SOAP](https://img.shields.io/badge/SOAP-API-5A9?style=for-the-badge)
+![TCP](https://img.shields.io/badge/TCP%2FIP-Protocol-blue?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🧮 Scientific Computing
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![DSP](https://img.shields.io/badge/DSP-Algorithms-purple?style=for-the-badge)
+
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -186,6 +200,31 @@ Python • Event-Driven Architecture
 Arduino • ESP32 • MQTT • JavaScript
 ```
 
+---
+
+### 🚛 [SwiftLogistics](https://github.com/Chamudu/SwiftLogistics)
+
+**Enterprise middleware architecture with multi-protocol integration**
+
+#### ✨ Features
+- 🏗️ Microservices architecture with RabbitMQ
+- 📡 Multi-protocol support (REST, SOAP, TCP/IP)
+- 🔐 API Gateway with security & monitoring
+- 📊 SAGA pattern for distributed transactions
+- ⚡ Real-time tracking with WebSockets
+- 🧪 100% test coverage
+
+#### 🛠️ Built With
+```
+Node.js • RabbitMQ • Docker • REST • SOAP • TCP
+```
+
+#### 📈 Architecture Highlights
+- **10+ Microservices**: API Gateway, Workers, Adapters
+- **3 Protocol Adapters**: REST, SOAP, TCP/IP
+- **Event-Driven Design**: Message queues & pub/sub
+- **Production Ready**: Logging, metrics, resilience
+
 </td>
 </tr>
 </table>
@@ -206,6 +245,20 @@ Arduino • ESP32 • MQTT • JavaScript
 
 ---
 
+## 🔬 Algorithms & Security Projects
+
+<div align="center">
+
+| Project | Focus Area | Tech Stack | Highlights |
+|---------|------------|------------|------------|
+| **[DSP Algorithms](https://github.com/Chamudu/DSP_Convolution_and_DST)** | Signal Processing | Python, NumPy, DSP | Convolution & DFT from scratch |
+| **[Secure Code Game](https://github.com/Chamudu/secure-code-game)** | Cybersecurity | Python, Security Testing | Vulnerability detection & fixes |
+| **[MVC Framework](https://github.com/Chamudu/MVC_T1)** | Architecture | PHP | Custom MVC implementation |
+
+</div>
+
+---
+
 ## 💼 Core Competencies
 
 <div align="center">
@@ -220,6 +273,8 @@ mindmap
       Python Flask
       Node.js
       RESTful APIs
+      SOAP Services
+      TCP/IP
     Frontend
       JavaScript
       React
@@ -229,11 +284,24 @@ mindmap
       MVC Pattern
       Microservices
       Event Driven
-      Database Design
+      Middleware
+      Message Queues
+      SAGA Pattern
+    Security
+      Vulnerability Testing
+      Secure Coding
+      API Authentication
+      Rate Limiting
+    Algorithms
+      DSP
+      Convolution
+      DFT
+      Signal Processing
     DevOps
       Git Workflows
+      Docker
+      RabbitMQ
       Vercel Deploy
-      Environment Config
       CI/CD
 ```
 
@@ -256,11 +324,12 @@ mindmap
 <div align="center">
 
 ```diff
-+ 🔥 Building production-ready government systems
-+ 🤖 Integrating AI/ML into practical applications
-+ 🏗️ Mastering microservices architecture
++ 🔥 Building production-ready enterprise systems
++ 🏗️ Mastering microservices & middleware architecture
++ 🔐 Implementing security-first development practices
++ 📡 Multi-protocol API integration (REST/SOAP/TCP)
++ 🧮 Algorithm design & signal processing
 + 🗺️ Advanced GIS and mapping solutions
-+ ⚡ Performance optimization and scalability
 ```
 
 </div>
