@@ -135,7 +135,7 @@ React • Node.js • Express • AI/ML
 
 ### 📚 [NexusEnroll](https://github.com/Chamudu/NexusEnroll)
 
-**Microservices-based university enrollment system**
+**Microservices-based course enrollment platform**
 
 #### ✨ Features
 - 🏗️ Microservices architecture
@@ -164,6 +164,28 @@ Python • Flask • MySQL • Microservices
 Python • Event-Driven Architecture
 ```
 
+---
+
+### 🛡️ [SecureHome](https://github.com/Chamudu/SecureHome)
+
+**Real-time IoT security dashboard for ESP32**
+
+<a href="https://secure-home-inky.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+#### ✨ Features
+- 🔒 Real-time security monitoring
+- 🌡️ Environmental sensors tracking
+- 👤 Presence detection system
+- 📡 MQTT communication
+- 📱 Responsive dashboard
+
+#### 🛠️ Built With
+```
+Arduino • ESP32 • MQTT • JavaScript
+```
+
 </td>
 </tr>
 </table>
@@ -178,7 +200,7 @@ Python • Event-Driven Architecture
 |---------|-------------|------------|------|
 | **[PHP MVC Framework](https://github.com/Chamudu/PHPmvc_frameWork)** | Custom MVC framework from scratch | PHP, MySQL | 2025 |
 | **[Portfolio](https://github.com/Chamudu/Portfolio)** | Personal portfolio website | HTML, CSS, JS | 2026 |
-| **[SCS-1303](https://github.com/Chamudu/SCS-1303)** | Git & GitHub course materials | Documentation | 2024 |
+| **[SwiftLogistics](https://github.com/Chamudu/SwiftLogistics)** | Logistics management platform | JavaScript, Node.js | 2025 |
 
 </div>
 
@@ -264,7 +286,7 @@ I'm always excited to work on interesting projects and connect with fellow devel
 <a href="mailto:chamuduhansana@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="www.linkedin.com/in/chamudu-h-367b18281">
+<a href="https://www.linkedin.com/in/chamudu-h-367b18281">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Chamudu">
