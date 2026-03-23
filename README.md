@@ -12,7 +12,6 @@
   [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:chamuduhansana@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/chamudu-h-367b18281)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Chamudu&color=blueviolet&style=for-the-badge)
   
 </div>
 
@@ -110,77 +109,7 @@ PHP MVC • MySQL • JavaScript • Leaflet.js • Vercel
 </td>
 <td width="50%">
 
-### 🤖 [AI Task Manager](https://github.com/Chamudu/ai-task-manager)
 
-**Task management web application**
-
-#### ✨ Features
-- 📋 Task categorization and filtering
-- 📅 Due date management
-- 📊 Analytics dashboard
-- ⚡ Real-time updates
-
-#### 🛠️ Built With
-```
-React • Node.js • Express • MongoDB
-```
-
----
-
-### 📚 [NexusEnroll](https://github.com/Chamudu/NexusEnroll)
-
-**Microservices-based course enrollment platform**
-
-#### ✨ Features
-- 🏗️ Microservices architecture
-- 📝 Student & course management
-- 📊 Complete documentation
-- 🔍 Error handling and logging
-
-#### 🛠️ Built With
-```
-Python • Flask • MySQL • Microservices
-```
-
----
-
-### 🔄 [PubSub Middleware](https://github.com/Chamudu/pubsub-middleware)
-
-**Event-driven messaging system**
-
-#### ✨ Features
-- 📡 Distributed messaging
-- 🔄 Pub/Sub pattern
-- ⚡ Async message delivery
-
-#### 🛠️ Built With
-```
-Python • Event-Driven Architecture
-```
-
----
-
-### 🛡️ [SecureHome](https://github.com/Chamudu/SecureHome)
-
-**Real-time IoT security dashboard for ESP32**
-
-<a href="https://secure-home-inky.vercel.app">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge" alt="Live Demo"/>
-</a>
-
-#### ✨ Features
-- 🔒 Real-time security monitoring
-- 🌡️ Environmental sensors tracking
-- 👤 Presence detection system
-- 📡 MQTT communication
-- 📱 Responsive dashboard
-
-#### 🛠️ Built With
-```
-Arduino • ESP32 • MQTT • HTML/CSS/JS
-```
-
----
 
 ### 🚛 [SwiftLogistics](https://github.com/Chamudu/SwiftLogistics)
 
@@ -207,111 +136,6 @@ Node.js • React • RabbitMQ • PostgreSQL • Socket.IO • Docker Compose
 </td>
 </tr>
 </table>
-
----
-
-## 🎓 Additional Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Year |
-|---------|-------------|------------|------|
-| **[PHP MVC Framework](https://github.com/Chamudu/PHPmvc_frameWork)** | Custom MVC framework from scratch | PHP, MySQL | 2025 |
-| **[Portfolio](https://github.com/Chamudu/Portfolio)** | Personal portfolio website | HTML, CSS, JS | 2026 |
-| **[c-parser](https://github.com/Chamudu/c-parser)** | Recursive descent parser | C | 2024 |
-
-</div>
-
----
-
-## 🔬 Algorithms & Security Projects
-
-<div align="center">
-
-| Project | Focus Area | Tech Stack | Highlights |
-|---------|------------|------------|------------|
-| **[DSP Algorithms](https://github.com/Chamudu/DSP_Convolution_and_DST)** | Signal Processing | Python, NumPy, DSP | Convolution & DFT from scratch |
-| **[c-parser](https://github.com/Chamudu/c-parser)** | Compilers | C | Lexer and parser implementation |
-| **[MVC Framework](https://github.com/Chamudu/MVC_T1)** | Architecture | PHP | Custom MVC implementation |
-
-</div>
-
----
-
-## 💼 Core Competencies
-
-<div align="center">
-
-
-```mermaid
-%%{init: {'theme':'neutral'}}%%
-mindmap
-  root((Chamudu))
-    Backend
-      PHP MVC
-      Python Flask
-      Node.js
-      RESTful APIs
-      SOAP Services
-      TCP/IP
-    Frontend
-      JavaScript
-      React
-      HTML/CSS
-      Responsive Design
-    Architecture
-      MVC Pattern
-      Microservices
-      Event Driven
-      Middleware
-      Message Queues
-      SAGA Pattern
-    Security
-      Vulnerability Testing
-      Secure Coding
-      API Authentication
-      Rate Limiting
-    Algorithms
-      DSP
-      Convolution
-      DFT
-      Signal Processing
-    DevOps
-      Git Workflows
-      Docker
-      RabbitMQ
-      Vercel Deploy
-      CI/CD
-```
-
-</div>
-
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamudu&theme=tokyonight)
-
-</div>
-
-
-## 📚 Recent Focus Areas
-
-<div align="center">
-
-```diff
-+ 🔥 Building production-ready enterprise systems
-+ 🏗️ Mastering microservices & middleware architecture
-+ 🔐 Implementing security-first development practices
-+ 📡 Multi-protocol API integration (REST/SOAP/TCP)
-+ 🧮 Algorithm design & signal processing
-+ 🗺️ Advanced GIS and mapping solutions
-```
-
-</div>
 
 ---
 
