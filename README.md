@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 🎓 CS Undergraduate | 💻 Full-Stack Developer
+  ###  CS Undergraduate |  Full-Stack Developer
   
   *CS student at University of Colombo School of Computing — building web apps and backend systems*
   
@@ -17,11 +17,11 @@
 
 ---
 
-## 💻 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,7 +29,7 @@
 ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### ⚙️ Backend Development
+###  Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,10 +37,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🔌 IoT & Embedded
+###  IoT & Embedded
 ![Arduino C](https://img.shields.io/badge/Arduino_C-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 📡 Protocols & Message Brokers
+###  Protocols & Message Brokers
 ![REST](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
 ![SOAP](https://img.shields.io/badge/SOAP-API-5A9?style=for-the-badge)
 ![TCP](https://img.shields.io/badge/TCP%2FIP-Protocol-blue?style=for-the-badge)
@@ -48,11 +48,11 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### 🗄️ Database
+###  Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Tools & DevOps
+###  Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -63,11 +63,11 @@
 
 </div>
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🌟 Flagship Project
+### Flagship Project
 
 </div>
 
@@ -75,7 +75,7 @@
 <tr>
 <td width="50%">
 
-### 🏥 [VillageCare](https://github.com/Chamudu/VillageCare)
+### [VillageCare](https://github.com/Chamudu/VillageCare)
 
 <a href="https://villagecare-lk.vercel.app">
   <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge" alt="Live Demo"/>
@@ -83,21 +83,21 @@
 
 **A comprehensive village management platform for Sri Lankan Grama Niladhari officers**
 
-#### ✨ Highlights
-- 📊 **Real-time Analytics Dashboard**
-- 👥 **Smart Resident Management** with NIC validation
-- 📜 **Digital Certificate Processing**
-- 🗺️ **GPS Location Tracking** (Leaflet.js)
-- 💬 **Complaint System** with priority management
-- 📱 **Responsive Design** for mobile & desktop
-- 🔐 **Multi-role Authentication** (GN, DS, Villager)
+#### Highlights
+-  **Real-time Analytics Dashboard**
+-  **Smart Resident Management** with NIC validation
+-  **Digital Certificate Processing**
+-  **GPS Location Tracking** (Leaflet.js)
+-  **Complaint System** with priority management
+-  **Responsive Design** for mobile & desktop
+-  **Multi-role Authentication** (GN, DS, Villager)
 
-#### 🛠️ Tech Stack
+####  Tech Stack
 ```
 PHP MVC • MySQL • JavaScript • Leaflet.js • Vercel
 ```
 
-#### 📈 Impact
+####  Impact
 - **13 Active Branches** for feature development
 - **Deployed on Vercel**
 - **University group project**
@@ -111,24 +111,24 @@ PHP MVC • MySQL • JavaScript • Leaflet.js • Vercel
 
 
 
-### 🚛 [SwiftLogistics](https://github.com/Chamudu/SwiftLogistics)
+###  [SwiftLogistics](https://github.com/Chamudu/SwiftLogistics)
 
 **Middleware platform with multi-protocol integration**
 
-#### ✨ Features
-- 🏗️ Microservices architecture with RabbitMQ
-- 📡 Multi-protocol support (REST, SOAP, TCP/IP)
-- 🔐 JWT Auth & API Gateway
-- 📊 SAGA pattern for distributed transactions
-- ⚡ Real-time tracking with WebSockets
-- 📈 React Dashboard
+#### Features
+-  Microservices architecture with RabbitMQ
+-  Multi-protocol support (REST, SOAP, TCP/IP)
+-  JWT Auth & API Gateway
+-  SAGA pattern for distributed transactions
+-  Real-time tracking with WebSockets
+-  React Dashboard
 
-#### 🛠️ Built With
+####  Built With
 ```
 Node.js • React • RabbitMQ • PostgreSQL • Socket.IO • Docker Compose
 ```
 
-#### 📈 Architecture Highlights
+####  Architecture Highlights
 - **14+ Services**: API Gateway, Workers, Adapters
 - **3 Protocol Adapters**: REST, SOAP, TCP/IP
 - **Event-Driven Design**: Message queues & pub/sub
@@ -139,18 +139,18 @@ Node.js • React • RabbitMQ • PostgreSQL • Socket.IO • Docker Compose
 
 ---
 
-## 🤝 Let's Collaborate!
+##  Let's Collaborate!
 
 <div align="center">
 
 I'm always excited to work on interesting projects and connect with fellow developers!
 
-### 💬 Open to:
-✨ **Open Source Contributions** • 🤝 **Collaboration on Projects** • 💼 **Freelance Opportunities** • 🎓 **Knowledge Sharing** • 🚀 **Innovative Ideas**
+### Open to:
+ **Open Source Contributions** •  **Collaboration on Projects** •  **Freelance Opportunities** •  **Knowledge Sharing** •  **Innovative Ideas**
 
 ---
 
-### 📬 Get In Touch
+###  Get In Touch
 
 <a href="http://portfolio-chamu.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
@@ -171,7 +171,7 @@ I'm always excited to work on interesting projects and connect with fellow devel
 
 <div align="center">
   
-  ### 💙 Thank you for visiting!
+  ###  Thank you for visiting!
   
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
   
