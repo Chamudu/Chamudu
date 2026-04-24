@@ -84,13 +84,9 @@
 **A comprehensive village management platform for Sri Lankan Grama Niladhari officers**
 
 #### Highlights
--  **Real-time Analytics Dashboard**
--  **Smart Resident Management** with NIC validation
--  **Digital Certificate Processing**
--  **GPS Location Tracking** (Leaflet.js)
--  **Complaint System** with priority management
--  **Responsive Design** for mobile & desktop
--  **Multi-role Authentication** (GN, DS, Villager)
+- | **Grama Niladhari (GN) Officer** | Primary system administrator — manages residents, documents, appointments, and division operations |
+- | **Divisional Secretariat (DS) Officer** | Administrative oversight — manages GN officers and system-wide reports |
+- | **Village Residents (Villagers)** | Community members — request certificates, track applications, and book appointments |
 
 ####  Tech Stack
 ```
@@ -98,7 +94,6 @@ PHP MVC • MySQL • JavaScript • Leaflet.js • Vercel
 ```
 
 ####  Impact
-- **13 Active Branches** for feature development
 - **Deployed on Vercel**
 - **University group project**
 
